@@ -1,0 +1,1 @@
+This script, used in an X-ray stacking analysis, incorporates the Jackknife method and a multi-process approach to evaluate the uncertainties of the surface brightness radial profiles. If you notice any errors or have any comments, I would appreciate it if you could reach out to me.
